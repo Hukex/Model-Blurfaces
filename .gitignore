@@ -1,0 +1,29 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de logs
+*.log
+
+# Archivos de datos
+archiveFaces/*
+archiveFaces.zip
+blurFaces/
